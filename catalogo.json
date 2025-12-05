@@ -43,7 +43,7 @@
     "ano": 2011,
     "desenvolvedora": "Mojang",
     "descricao": "Crie, explore e sobreviva em um mundo totalmente aberto e procedural.",
-    "capa": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/76/Minecraft_Java_Edition_key_art.png",
+    "capa": "https://pt.wikipedia.org/wiki/Minecraft",
     "tags": ["criatividade", "sobrevivência", "construção"]
   },
 
@@ -67,7 +67,7 @@
     "ano": 2017,
     "desenvolvedora": "Nintendo",
     "descricao": "Um mundo aberto revolucionário com liberdade total para explorar Hyrule.",
-    "capa": "https://upload.wikimedia.org/wikipedia/en/0/0b/The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+    "capa": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild",
     "tags": ["zelda", "open world", "aventura"]
   },
 
@@ -91,7 +91,7 @@
     "ano": 2017,
     "desenvolvedora": "Epic Games",
     "descricao": "Um dos battle royales mais populares do mundo, com construção e atualizações constantes.",
-    "capa": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/FortniteSaveTheWorld.jpg/240px-FortniteSaveTheWorld.jpg",
+    "capa": "https://en.wikipedia.org/wiki/Fortnite:_Save_the_World",
     "tags": ["online", "tiro", "multiplayer"]
   },
 
@@ -115,7 +115,7 @@
     "ano": 2023,
     "desenvolvedora": "Capcom",
     "descricao": "O clássico retorna com gráficos modernos e jogabilidade aprimorada.",
-    "capa": "https://upload.wikimedia.org/wikipedia/en/4/46/Resident_Evil_4_Remake_cover_art.jpg",
+    "capa": "https://en.wikipedia.org/wiki/Resident_Evil_4_%282023_video_game%29",
     "tags": ["terror", "survival", "ação"]
   },
 
@@ -127,7 +127,7 @@
     "ano": 2018,
     "desenvolvedora": "Maddy Makes Games",
     "descricao": "Um jogo desafiador sobre escalar montanhas físicas e emocionais.",
-    "capa": "https://static.wikia.nocookie.net/celestegame/images/d/d6/Celeste_Key_Art.png",
+    "capa": "https://en.wikipedia.org/wiki/Celeste_%28video_game%29",
     "tags": ["pixel art", "indie", "história"]
   },
 
@@ -175,10 +175,11 @@
     "ano": 2022,
     "desenvolvedora": "Santa Monica Studio",
     "descricao": "A conclusão épica da saga nórdica de Kratos e Atreus.",
-    "capa": "https://upload.wikimedia.org/wikipedia/en/0/0d/God_of_War_Ragnar%C3%B6k_cover.jpg",
+    "capa": "https://en.wikipedia.org/wiki/God_of_War_Ragnar%C3%B6k",
     "tags": ["mitologia", "ação", "aventura"]
   }
 ]
+
 
 
 
