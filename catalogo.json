@@ -43,7 +43,7 @@
     "ano": 2011,
     "desenvolvedora": "Mojang",
     "descricao": "Crie, explore e sobreviva em um mundo totalmente aberto e procedural.",
-    "capa": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png",
+    "capa": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/76/Minecraft_Java_Edition_key_art.png",
     "tags": ["criatividade", "sobrevivência", "construção"]
   },
 
@@ -127,7 +127,7 @@
     "ano": 2018,
     "desenvolvedora": "Maddy Makes Games",
     "descricao": "Um jogo desafiador sobre escalar montanhas físicas e emocionais.",
-    "capa": "https://upload.wikimedia.org/wikipedia/en/9/9a/Celeste_box_art_final.png",
+    "capa": "https://static.wikia.nocookie.net/celestegame/images/d/d6/Celeste_Key_Art.png",
     "tags": ["pixel art", "indie", "história"]
   },
 
@@ -179,5 +179,6 @@
     "tags": ["mitologia", "ação", "aventura"]
   }
 ]
+
 
 
