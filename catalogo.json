@@ -7,7 +7,7 @@
     "ano": 2015,
     "desenvolvedora": "CD Projekt Red",
     "descricao": "Um RPG de mundo aberto aclamado por sua narrativa profunda, decisões morais e imersão total.",
-    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202209/3008/jNvKcJsteVEh9UpAJZci7i.png",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg",
     "tags": ["fantasia", "aventura", "história", "open world"]
   },
 
@@ -19,7 +19,7 @@
     "ano": 2018,
     "desenvolvedora": "Santa Monica Studio",
     "descricao": "Kratos retorna em uma nova jornada ao lado de seu filho Atreus, enfrentando deuses nórdicos.",
-    "capa": "https://image.api.playstation.com/cdn/UP9000/CUSA07408_00/4gFWXVnUnqaUrNECRaKa.jpg",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/a/a7/God_of_War_4_cover.jpg",
     "tags": ["mitologia", "combate", "nórdico"]
   },
 
@@ -55,7 +55,7 @@
     "ano": 2018,
     "desenvolvedora": "Rockstar Games",
     "descricao": "Viva a jornada de Arthur Morgan em um Velho Oeste belíssimo e brutal.",
-    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2617/NuPNgmYI1Cdm42Hcps225yS.png",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg",
     "tags": ["faroeste", "open world", "história"]
   },
 
@@ -67,7 +67,7 @@
     "ano": 2017,
     "desenvolvedora": "Nintendo",
     "descricao": "Um mundo aberto revolucionário com liberdade total para explorar Hyrule.",
-    "capa": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/The_Legend_of_Zelda_Breath_of_the_Wild.jpg/220px-The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/0/0b/The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
     "tags": ["zelda", "open world", "aventura"]
   },
 
@@ -91,7 +91,7 @@
     "ano": 2017,
     "desenvolvedora": "Epic Games",
     "descricao": "Um dos battle royales mais populares do mundo, com construção e atualizações constantes.",
-    "capa": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/FortniteSaveTheWorld.jpg/220px-FortniteSaveTheWorld.jpg",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/FortniteSaveTheWorld.jpg/240px-FortniteSaveTheWorld.jpg",
     "tags": ["online", "tiro", "multiplayer"]
   },
 
@@ -175,7 +175,8 @@
     "ano": 2022,
     "desenvolvedora": "Santa Monica Studio",
     "descricao": "A conclusão épica da saga nórdica de Kratos e Atreus.",
-    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202209/3016/qqZ9YuqbWtaXDpUe1koXkn.png",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/0/0d/God_of_War_Ragnar%C3%B6k_cover.jpg",
     "tags": ["mitologia", "ação", "aventura"]
   }
 ]
+
