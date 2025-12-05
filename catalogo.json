@@ -31,7 +31,7 @@
     "ano": 2017,
     "desenvolvedora": "Team Cherry",
     "descricao": "Explore um reino subterrâneo em um dos metroidvanias mais elogiados da história.",
-    "capa": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Hollow_Knight_first_cover_art.webp/330px-Hollow_Knight_first_cover_art.webp.png",
     "tags": ["2d", "exploração", "indie"]
   },
 
@@ -43,7 +43,7 @@
     "ano": 2011,
     "desenvolvedora": "Mojang",
     "descricao": "Crie, explore e sobreviva em um mundo totalmente aberto e procedural.",
-    "capa": "https://upload.wikimedia.org/wikipedia/en/b/b6/Minecraft_2024_cover_art.png",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png",
     "tags": ["criatividade", "sobrevivência", "construção"]
   },
 
@@ -67,7 +67,7 @@
     "ano": 2017,
     "desenvolvedora": "Nintendo",
     "descricao": "Um mundo aberto revolucionário com liberdade total para explorar Hyrule.",
-    "capa": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg/250px-The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/0/0b/The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
     "tags": ["zelda", "open world", "aventura"]
   },
 
@@ -79,7 +79,7 @@
     "ano": 2016,
     "desenvolvedora": "FromSoftware",
     "descricao": "Desafios intensos, combates profundos e ambientação sombria definem essa experiência.",
-    "capa": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/b/bb/Dark_Souls_III_cover_art.jpg",
     "tags": ["dificuldade", "sombrio", "rpg"]
   },
 
@@ -91,7 +91,7 @@
     "ano": 2017,
     "desenvolvedora": "Epic Games",
     "descricao": "Um dos battle royales mais populares do mundo, com construção e atualizações constantes.",
-    "capa": "https://upload.wikimedia.org/wikipedia/en/a/ae/Fortnite_Save_The_World.jpg",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/FortniteSaveTheWorld.jpg/330px-FortniteSaveTheWorld.jpg",
     "tags": ["online", "tiro", "multiplayer"]
   },
 
@@ -115,7 +115,7 @@
     "ano": 2023,
     "desenvolvedora": "Capcom",
     "descricao": "O clássico retorna com gráficos modernos e jogabilidade aprimorada.",
-    "capa": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Resident_Evil_4_remake_cover_art.jpg/250px-Resident_Evil_4_remake_cover_art.jpg",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/4/46/Resident_Evil_4_Remake_cover_art.jpg",
     "tags": ["terror", "survival", "ação"]
   },
 
@@ -127,7 +127,7 @@
     "ano": 2018,
     "desenvolvedora": "Maddy Makes Games",
     "descricao": "Um jogo desafiador sobre escalar montanhas físicas e emocionais.",
-    "capa": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Celeste_box_art_full.png",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/9/9a/Celeste_box_art_final.png",
     "tags": ["pixel art", "indie", "história"]
   },
 
@@ -151,7 +151,7 @@
     "ano": 2016,
     "desenvolvedora": "ConcernedApe",
     "descricao": "Administre uma fazenda, crie laços e viva no pacato Vale do Orvalho.",
-    "capa": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/f/fd/Stardew_Valley_cover_art.png",
     "tags": ["fazenda", "relaxante", "indie"]
   },
 
@@ -163,7 +163,7 @@
     "ano": 2011,
     "desenvolvedora": "Valve",
     "descricao": "Resolva desafios com portais em uma campanha brilhante e cheia de humor.",
-    "capa": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/f/f9/Portal2cover.jpg",
     "tags": ["lógica", "ciência", "coop"]
   },
 
@@ -175,12 +175,7 @@
     "ano": 2022,
     "desenvolvedora": "Santa Monica Studio",
     "descricao": "A conclusão épica da saga nórdica de Kratos e Atreus.",
-    "capa": "https://upload.wikimedia.org/wikipedia/en/e/ee/God_of_War_Ragnar%C3%B6k_cover.jpg",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/0/0d/God_of_War_Ragnar%C3%B6k_cover.jpg",
     "tags": ["mitologia", "ação", "aventura"]
   }
 ]
-
-
-
-
-
