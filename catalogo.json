@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "titulo": "The Witcher 3: Wild Hunt",
+    "genero": "RPG",
+    "plataforma": "PC",
+    "ano": 2015,
+    "desenvolvedora": "CD Projekt Red",
+    "descricao": "Um RPG de mundo aberto aclamado por sua narrativa profunda, decisões morais e imersão total.",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202209/3008/jNvKcJsteVEh9UpAJZci7i.png",
+    "tags": ["fantasia", "aventura", "história", "open world"]
+  },
+
+  {
+    "id": 2,
+    "titulo": "God of War",
+    "genero": "Ação",
+    "plataforma": "PlayStation",
+    "ano": 2018,
+    "desenvolvedora": "Santa Monica Studio",
+    "descricao": "Kratos retorna em uma nova jornada ao lado de seu filho Atreus, enfrentando deuses nórdicos.",
+    "capa": "https://image.api.playstation.com/cdn/UP9000/CUSA07408_00/4gFWXVnUnqaUrNECRaKa.jpg",
+    "tags": ["mitologia", "combate", "nórdico"]
+  },
+
+  {
+    "id": 3,
+    "titulo": "Hollow Knight",
+    "genero": "Metroidvania",
+    "plataforma": "PC",
+    "ano": 2017,
+    "desenvolvedora": "Team Cherry",
+    "descricao": "Explore um reino subterrâneo em um dos metroidvanias mais elogiados da história.",
+    "capa": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+    "tags": ["2d", "exploração", "indie"]
+  },
+
+  {
+    "id": 4,
+    "titulo": "Minecraft",
+    "genero": "Sandbox",
+    "plataforma": "PC",
+    "ano": 2011,
+    "desenvolvedora": "Mojang",
+    "descricao": "Crie, explore e sobreviva em um mundo totalmente aberto e procedural.",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png",
+    "tags": ["criatividade", "sobrevivência", "construção"]
+  },
+
+  {
+    "id": 5,
+    "titulo": "Red Dead Redemption 2",
+    "genero": "Ação e Aventura",
+    "plataforma": "PC",
+    "ano": 2018,
+    "desenvolvedora": "Rockstar Games",
+    "descricao": "Viva a jornada de Arthur Morgan em um Velho Oeste belíssimo e brutal.",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2617/NuPNgmYI1Cdm42Hcps225yS.png",
+    "tags": ["faroeste", "open world", "história"]
+  },
+
+  {
+    "id": 6,
+    "titulo": "The Legend of Zelda: Breath of the Wild",
+    "genero": "Aventura",
+    "plataforma": "Nintendo",
+    "ano": 2017,
+    "desenvolvedora": "Nintendo",
+    "descricao": "Um mundo aberto revolucionário com liberdade total para explorar Hyrule.",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/The_Legend_of_Zelda_Breath_of_the_Wild.jpg/220px-The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+    "tags": ["zelda", "open world", "aventura"]
+  },
+
+  {
+    "id": 7,
+    "titulo": "Dark Souls III",
+    "genero": "Soulslike",
+    "plataforma": "PC",
+    "ano": 2016,
+    "desenvolvedora": "FromSoftware",
+    "descricao": "Desafios intensos, combates profundos e ambientação sombria definem essa experiência.",
+    "capa": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg",
+    "tags": ["dificuldade", "sombrio", "rpg"]
+  },
+
+  {
+    "id": 8,
+    "titulo": "Fortnite",
+    "genero": "Battle Royale",
+    "plataforma": "PC",
+    "ano": 2017,
+    "desenvolvedora": "Epic Games",
+    "descricao": "Um dos battle royales mais populares do mundo, com construção e atualizações constantes.",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/FortniteSaveTheWorld.jpg/220px-FortniteSaveTheWorld.jpg",
+    "tags": ["online", "tiro", "multiplayer"]
+  },
+
+  {
+    "id": 9,
+    "titulo": "GTA V",
+    "genero": "Ação e Aventura",
+    "plataforma": "PC",
+    "ano": 2013,
+    "desenvolvedora": "Rockstar Games",
+    "descricao": "Acompanhe Michael, Trevor e Franklin em Los Santos nesta obra-prima moderna.",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+    "tags": ["open world", "crime", "ação"]
+  },
+
+  {
+    "id": 10,
+    "titulo": "Resident Evil 4 Remake",
+    "genero": "Terror",
+    "plataforma": "PlayStation",
+    "ano": 2023,
+    "desenvolvedora": "Capcom",
+    "descricao": "O clássico retorna com gráficos modernos e jogabilidade aprimorada.",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/4/46/Resident_Evil_4_Remake_cover_art.jpg",
+    "tags": ["terror", "survival", "ação"]
+  },
+
+  {
+    "id": 11,
+    "titulo": "Celeste",
+    "genero": "Plataforma",
+    "plataforma": "PC",
+    "ano": 2018,
+    "desenvolvedora": "Maddy Makes Games",
+    "descricao": "Um jogo desafiador sobre escalar montanhas físicas e emocionais.",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/9/9a/Celeste_box_art_final.png",
+    "tags": ["pixel art", "indie", "história"]
+  },
+
+  {
+    "id": 12,
+    "titulo": "Cyberpunk 2077",
+    "genero": "RPG",
+    "plataforma": "PC",
+    "ano": 2020,
+    "desenvolvedora": "CD Projekt Red",
+    "descricao": "Explore a futurista Night City em um mundo aberto de alto nível narrativo.",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
+    "tags": ["futuro", "ação", "tiro"]
+  },
+
+  {
+    "id": 13,
+    "titulo": "Stardew Valley",
+    "genero": "Simulação",
+    "plataforma": "PC",
+    "ano": 2016,
+    "desenvolvedora": "ConcernedApe",
+    "descricao": "Administre uma fazenda, crie laços e viva no pacato Vale do Orvalho.",
+    "capa": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+    "tags": ["fazenda", "relaxante", "indie"]
+  },
+
+  {
+    "id": 14,
+    "titulo": "Portal 2",
+    "genero": "Puzzle",
+    "plataforma": "PC",
+    "ano": 2011,
+    "desenvolvedora": "Valve",
+    "descricao": "Resolva desafios com portais em uma campanha brilhante e cheia de humor.",
+    "capa": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
+    "tags": ["lógica", "ciência", "coop"]
+  },
+
+  {
+    "id": 15,
+    "titulo": "God of War Ragnarök",
+    "genero": "Ação",
+    "plataforma": "PlayStation",
+    "ano": 2022,
+    "desenvolvedora": "Santa Monica Studio",
+    "descricao": "A conclusão épica da saga nórdica de Kratos e Atreus.",
+    "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202209/3016/qqZ9YuqbWtaXDpUe1koXkn.png",
+    "tags": ["mitologia", "ação", "aventura"]
+  }
+]

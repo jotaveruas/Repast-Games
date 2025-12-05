@@ -1,0 +1,63 @@
+html {
+    scroll-behavior: smooth;
+}
+
+article {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+article:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.13);
+}
+
+button.openBtn {
+    transition: background 0.2s ease;
+}
+
+button.openBtn:hover {
+    filter: brightness(1.15);
+}
+
+.modal-anim {
+    animation: fadeIn 0.25s ease-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: scale(0.96); }
+    to   { opacity: 1; transform: scale(1); }
+}
+
+input, textarea, select {
+    outline: none !important;
+}
+
+::placeholder {
+    color: #94a3b8;
+}
+
+.loading {
+    text-align: center;
+    font-size: 1.1rem;
+    color: #64748b;
+}
+
+#paginacao button {
+    transition: 0.2s;
+}
+
+.card img {
+    object-fit: cover;
+}
+
+footer {
+    backdrop-filter: blur(4px);
+}
+
+a {
+    transition: 0.2s;
+}
+
+a:hover {
+    opacity: 0.85;
+}
